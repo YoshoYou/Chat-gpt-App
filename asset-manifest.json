@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chat-gpt-app/static/css/main.fcbce929.css",
+    "main.js": "/chat-gpt-app/static/js/main.799ed10f.js",
+    "static/media/Ai2.jpeg": "/chat-gpt-app/static/media/Ai2.82e3aebe76f64a94278f.jpeg",
+    "static/media/Ai.webp": "/chat-gpt-app/static/media/Ai.1b6834e019e50d995b2f.webp",
+    "static/media/art2.jpg": "/chat-gpt-app/static/media/art2.0bc0e7c2545d0c0f4145.jpg",
+    "static/media/AiFace.webp": "/chat-gpt-app/static/media/AiFace.e78d83d356003834e94b.webp",
+    "static/media/logo.jpg": "/chat-gpt-app/static/media/logo.1a226d41db747993d089.jpg",
+    "static/media/b3.png": "/chat-gpt-app/static/media/b3.5573107caee79186c5d7.png",
+    "static/media/art.jpg": "/chat-gpt-app/static/media/art.ed7917c43f2def4fbec9.jpg",
+    "index.html": "/chat-gpt-app/index.html",
+    "main.fcbce929.css.map": "/chat-gpt-app/static/css/main.fcbce929.css.map",
+    "main.799ed10f.js.map": "/chat-gpt-app/static/js/main.799ed10f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcbce929.css",
+    "static/js/main.799ed10f.js"
+  ]
+}
